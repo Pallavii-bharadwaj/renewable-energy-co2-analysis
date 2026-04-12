@@ -20,3 +20,4 @@ Python | Pandas | Seaborn | Matplotlib | NumPy | Statistical Modelling
 - Strengthened skills in **data visualization**, **time-series analysis**, and **statistical reasoning**
 - Enhanced ability to communicate technical insights to non-technical audiences
 ### 🗂️ Repository Structure
+- renewable_energy_co2_analysis.ipynb → end-to-end analysis including data cleaning, EDA, and visualisation
