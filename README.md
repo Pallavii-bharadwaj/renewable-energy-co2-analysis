@@ -21,3 +21,5 @@ Python | Pandas | Seaborn | Matplotlib | NumPy | Statistical Modelling
 - Enhanced ability to communicate technical insights to non-technical audiences
 ### 🗂️ Repository Structure
 - renewable_energy_co2_analysis.ipynb → end-to-end analysis including data cleaning, EDA, and visualisation
+## ▶️ How to Reproduce
+   Open `renewable_energy_CO2_analysis.ipynb` in Jupyter Notebook or VS Code and run all cells. Required libraries: pandas, numpy, matplotlib, seaborn.
